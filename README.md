@@ -1,9 +1,6 @@
 # SVG Maker
- # SVG Logo Maker
 
 This is a Node.js command-line application that generates a simple logo as an SVG file. It allows users to input text, select colors for the text and shape, and choose from different shapes (circle, triangle, square) for the logo.
-
-The generated SVG logo can be used for various purposes, such as personal projects or as a placeholder logo. It eliminates the need to hire a graphic designer for simple logo needs.
 
 ![Generated Logo](./examples/logo.svg)
 
