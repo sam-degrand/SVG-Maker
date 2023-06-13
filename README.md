@@ -42,6 +42,6 @@ You can find example SVG files created with the SVG Logo Maker in the examples f
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing code style and include appropriate tests.
-License
+## License
 
 This project is licensed under the MIT License.
