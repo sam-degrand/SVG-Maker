@@ -34,6 +34,8 @@ node .\index.js
 You will be prompted to enter the text for the logo, choose the text color, select the shape, and specify the shape color. Follow the on-screen instructions and provide the required input.
 
 Once you have entered all the necessary information, an SVG file named logo.svg will be generated in the project directory. You can open this file in a web browser to view the logo.
+## Video
+https://drive.google.com/file/d/1iLESZp_igE4XUTd_eXGh2qPoiRn9rFZZ/view
 ## Examples
 
 You can find example SVG files created with the SVG Logo Maker in the examples folder of this repository.
